@@ -1,5 +1,6 @@
 # FillText：文本模板与片段 
 ## 通过'/'轻松填充预定义文本，支持多场景、多语言的多格式输入
+## For English description and discussion, please jump to [FillText](https://github.com/XperInsight/FillText)
 
 ## 🚀 简介
 
