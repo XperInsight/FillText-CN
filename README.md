@@ -45,5 +45,4 @@ TextFill 是一个强大的 Chrome 浏览器插件，旨在提高文本输入效
 
 ## 📦 安装
 
-1. 从 Chrome 网上应用店安装插件
-2. 下载本地文件，拖动到浏览器扩展配置页
+1. 从 Chrome 网上应用店[安装插件](https://chromewebstore.google.com/detail/textfill-%E6%96%87%E6%9C%AC%E6%A8%A1%E6%9D%BF%E4%B8%8E%E7%89%87%E6%AE%B5/cecckcofakgpafbbfajmemimndpeiofl)
